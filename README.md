@@ -24,14 +24,15 @@ You'll need to have [Node.js](https://nodejs.org/) (version 14 or later) and [np
     ```bash
     git clone https://github.com/himanchalkaushale/Tailwind-React-Starter-Pack.git
     ```
-
-2.  **Navigate to the project directory:**
+                Or
+    [Download](https://github.com/himanchalkaushale/Tailwind-React-Starter-Pack/archive/refs/heads/master.zip) this repo as a zip
+3.  **Navigate to the project directory:**
 
     ```bash
     cd Tailwind-React-Starter-Pack
     ```
 
-3.  **Install the dependencies:**
+4.  **Install the dependencies:**
 
     ```bash
     npm install
