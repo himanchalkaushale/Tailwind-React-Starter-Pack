@@ -4,8 +4,8 @@ This is a starter pack for building React applications with Tailwind CSS. It's p
 
 ## Features
 
-*   **React 18:** The latest version of the popular JavaScript library for building user interfaces.
-*   **Tailwind CSS 3:** A utility-first CSS framework for rapid UI development.
+*   **React 19:** The latest version of the popular JavaScript library for building user interfaces.
+*   **Tailwind CSS 4:** A utility-first CSS framework for rapid UI development.
 *   **Vite:** A fast and lightweight build tool for modern web projects.
 *   **ESLint:** A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
 
